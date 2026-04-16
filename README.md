@@ -27,4 +27,23 @@ Puedes acceder a los diagramas en los siguientes enlaces:
 
 - 🔗 https://lucid.app/lucidchart/f8b6b546-d77c-4a8d-98b3-845a3dff08e6/edit?beaconFlowId=0DC20D41481C09D7&invitationId=inv_526bd70e-9156-4c65-b01d-39997d8f7583&page=0_0#
 
+## 📊 Tercera Presentación
+
+**Desarrollado por:**
+
+- Julio Rafael Vásquez Jaramillo  
+- Patricio Alexander Rivas Reinoso  
+- Luis Miguel Castillo Duchitanga
+- Luis José Cordova Ruiz
+
+Puedes acceder a los diagramas en los siguientes enlaces:
+
+- 🔗 
+
+- 🔗 https://lucid.app/lucidchart/a76460d7-7afe-4dc5-a883-05185c44bf60/edit?invitationId=inv_afadbbf1-4938-4580-a6d7-31b9e23f1401&page=0_0#
+
+- 🔗 https://lucid.app/lucidchart/fafde81e-63da-40a9-b153-53b8a640f4f3/edit?beaconFlowId=DC7D85AF10664DF4&invitationId=inv_06f06c7b-c23b-4775-bdf7-41c81bc73e35&page=0_0#
+
+- 🔗 https://lucid.app/lucidchart/f5500415-3a55-4835-ad59-228db9c53bc1/edit?invitationId=inv_0be10703-0693-4a0f-b0bf-f917dfa80001&page=0_0#
+
 ---
