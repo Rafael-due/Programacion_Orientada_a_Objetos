@@ -15,7 +15,7 @@ Repositorio que contiene las actividades de aprendizaje desarrolladas durante el
 Puedes ver nuestra primera presentación en el siguiente enlace:  
 🔗 https://canva.link/jmhoq919c2uz6wc
 
-## 📚 Tarea 1 - Presentación 2
+## 📚 Tarea 1 - Segunda Presentación
 
 **Desarrollado por:**  
 Julio Rafael Vásquez Jaramillo  
