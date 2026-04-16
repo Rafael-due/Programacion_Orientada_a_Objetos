@@ -38,7 +38,7 @@ Puedes acceder a los diagramas en los siguientes enlaces:
 
 Puedes acceder a los diagramas en los siguientes enlaces:
 
-- 🔗 
+- 🔗 https://lucid.app/lucidchart/f4c9323f-c75d-4870-8951-5e6399ae99e1/edit?invitationId=inv_73431211-9e49-4070-8a89-ba3304c3cd57&page=0_0#
 
 - 🔗 https://lucid.app/lucidchart/a76460d7-7afe-4dc5-a883-05185c44bf60/edit?invitationId=inv_afadbbf1-4938-4580-a6d7-31b9e23f1401&page=0_0#
 
