@@ -17,8 +17,7 @@ Puedes ver nuestra primera presentación en el siguiente enlace:
 
 ## 📚 Tarea 1 - Segunda Presentación
 
-**Desarrollado por:**  
-Julio Rafael Vásquez Jaramillo  
+**Desarrollado por:** Julio Rafael Vásquez Jaramillo  
 
 Puedes acceder a los diagramas en los siguientes enlaces:
 
