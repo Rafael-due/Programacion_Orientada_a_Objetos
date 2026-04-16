@@ -6,7 +6,7 @@ Repositorio que contiene las actividades de aprendizaje desarrolladas durante el
 
 ## 📊 Primera Presentación
 
-## 👥 Integrantes
+**Desarrollado por:**
 
 - Julio Rafael Vásquez Jaramillo  
 - Patricio Alexander Rivas Reinoso  
